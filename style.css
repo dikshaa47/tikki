@@ -1,0 +1,43 @@
+body {
+    background-color: #ffeef5;
+    font-family: Arial;
+    text-align: center;
+    color: #5c4b5e;
+    padding: 20px;
+}
+
+h1 {
+    color: #d66b9b;
+}
+
+h2 {
+    color: #9b72c5;
+}
+
+h3 {
+    color: #e58bad;
+}
+
+p {
+    font-size: 16px;
+}
+
+ul {
+    background-color: #f8e1ed;
+    padding: 10px;
+    border-radius: 15px;
+    width: 60%;
+    margin: auto;
+}
+
+li {
+    margin: 10px;
+}
+
+hr {
+    border: 1px solid #e8bfd4;
+}
+
+input {
+    accent-color: #d66b9b;
+}
